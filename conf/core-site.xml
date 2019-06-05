@@ -1,0 +1,6 @@
+<configuration>
+  <property>
+    <name>fs.default.name</name>
+    <value>hdfs://boise:4001</value>
+  </property>
+</configuration>

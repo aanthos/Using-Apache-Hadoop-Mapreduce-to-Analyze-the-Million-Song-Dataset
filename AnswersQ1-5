@@ -1,0 +1,81 @@
+
+Question 1
+	
+[b'Ike And Tina Turner', b'Ike_ Tina Turner', b'Tina Turner', b'Ike & Tina Tuner', b'Ike & Tina Turner']	208
+[b'Michael Jackson with Akon', b'Michael Jackson with will.i.am', b'Jackson 5', b'Michael Jackson with Diana Ross', b'Siouxsie And The Banshees', b'Michael Jackson', b'Michael Jackson / Jackson 5', b'James Brown', b'Michael Jackson;The Cleveland Orchestra']	204
+[b'Johnny Cash / Hank Williams Jr.', b'Johnny Cash;June Carter', b'Johnny Cash with June Carter Cash', b'Johnny Cash / Glen Campbell', b'Johnny Cash;The Carter Family', b'Johnny Cash', b'Johnny Ca$h', b'Johnny Cash / Oak Ridge Boys', b'Johnny Cash;Carl Perkins']	201
+[b'The Supremes', b'Diana Ross / Marvin Gaye', b'Diana Ross', b'Diana Ross & Marvin Gaye', b'Diana Ross / Michael Jackson / Nipsey Russell / Ted Ross / Richard Pryor / Lena Horne / Mabel King / Thelma Carpenter / Theresa Merritt', b'Diana Ross & The Supremes', b'Diana Ross / Marvin Gaye / Smokey Robinson / Stevie Wonder', b'Ton Koopman & Amsterdam Baroque Orchestra', b'Diana Ross & The Supremes / The Temptations', b'Diana Ross / Michael Jackson / Nipsey Russell / Ted Ross']	196
+[b'The Beastie Boys', b'Beastie Boys', b'Salt-N-Pepa', b'Ying Yin Wu']	194
+[b'Willie Nelson & Wynton Marsalis', b'Willie Nelson / Eric Clapton', b'Willie Nelson', b'Willie Nelson / Toots Hibbert', b'Willie Nelson with Leon Russell', b'Willie Nelson / Paula Nelson', b'Willie Nelson / Matchbox Twenty', b'Willie Nelson / Sheryl Crow / Bill Evans', b'Hank Snow', b'Willie Nelson / Dr. John', b'Willie Nelson / Lucinda Williams', b'Willie Nelson;Leon Russell', b'Willie Nelson;Mel Tillis', b'Willie Nelson with Waylon Jennings', b'Willie Nelson / Ray Price', b'Willie Nelson and Kimmie Rhodes', b'Willie Nelson / Kenny Wayne Shepherd', b'Willie Nelson/Shirley Collie', b'Willie Nelson / Sheryl Crow', b'Willie Nelson / Jonny Lang', b'Willie Nelson / Steven Tyler', b'Willie Nelson / Shelby Lynne', b'Willie Nelson / Lee Ann Womack', b'Willie Nelson;Dyan Cannon', b'Willie Nelson / ZZ Top']	191
+[b'Joan Baez', b'Blue Sky Boys', b'Joan Baez_ Mary Chapin Carpenter', b'Joan Baez / Joni Mitchell', b'Joan Baez_ Kate McGarrigle_ Anna Mc Garrigle']	185
+[b'BOB MARLEY AND THE WAILERS', b'Carl Dawkins / Bob Marley & The Wailers', b'Bob Marley / The Wailers', b'Peter Tosh', b'Bob Marley_The Wailers', b'The Upsetters', b'Bob Marley', "b'Bob Marley & The Wailers / Lee ""Scratch"" Perry'", b'The Wailers', b'Johnny Lover', b'Bob Marley / Lost Boyz / Mr.Cheeks', b'Bob Marley & The Wailers', "b'Bob Marley & Lee ""Scratch"" Perry'", b'Peter Tosh / The Wailers', b'Rita Marley / The Wailers']	183
+[b'Jimi Hendrix', b'Jimi Hendrix Experience', b'The Jimi Hendrix Experience', b'Jimmy Hendrix']	180
+[b'The M.J.Brothers', b'Uriah Heep', b'Ysa Ferrer', b'Duran Duran', b'Duran Duran featuring Justin Timberlake', b'Duran Duran Featuring Melle Mel & Grandmaster Flash & The Furious Five']	179
+
+Question 2
+	
+[b'Shenggy']	3.931
+[b'Pens']	3.796
+[b'Pain Jerk']	3.746
+[b'Massimo']	3.392
+[b'Kylie Minoise']	3.282222222222222
+[b'Frazzbass']	3.122
+[b'Boy + Girl']	3.071
+[b'Landed']	3.062
+[b'Huxtables']	3.026
+[b'Campfires']	2.937
+
+Question 3
+	
+b'Billionaire [feat. Bruno Mars]  (Explicit Album Version)'	1.0
+b'Your Woman'	1.0
+b'I Know You Want Me (Calle Ocho) (Extended Mix)'	1.0
+b'La Tablada'	1.0
+b'Noheadnohands'	1.0
+b'Man In The Box'	1.0
+b'Gravity'	1.0
+b'Ta Travudia'	1.0
+b'Somebody To Love'	1.0
+b'This Is How We Do It'	1.0
+
+Question 4
+	
+[b'White Cowbell Oklahoma']	1178
+[b'Lindstr\xc3\xb8m', b'Willie Dixon With The Chicago Blues All Stars', b'Lindstrom']	1009
+[b'Symphony in Peril']	702
+[b'Richard Chartier']	657
+[b'LFO', b'LFO feat. M.O.P.']	652
+[b'SIGNAL AOUT 42']	636
+[b'H-Blockx', b'H-Blockx feat. Dr. Ring-Ding', b'H-Blockx / Dr. Ring-Ding', b'\xc3\x85sa F\xc3\xa5ng']	601
+[b'Tiziano Ferro Featuring Kelly Rowland', b'Tiziano Ferro']	540
+[b'Matt Borghi']	451
+[b'Sharon Jones & The Dap Kings', b'Sharon Jones & The Dap-Kings']	428
+
+Question 5
+	
+Longest Songs:	
+b'Raag - Shuddha Kalyan (Language: Hindustani; Raga: Shuddha Kalyan)'	3033.59955
+b'Discussion 2'	3033.44281
+b'Chapitre Un (a): Toutes Les Histoires'	3032.76363
+b'Der Geist des Llano Estacado \x13 Ein Spion'	3032.58077
+b'Raga: Kaushi Kanada (Tabla: Kumar Bose)'	3032.5024
+b'Galactic Odyssey'	3030.90893
+b'Members Select Special Bonus Mix (Free Bonus mix with full album download)'	3030.62159
+b'Rag: Gaud Malhar & Rag: Mian Malhar'	3030.17751
+b'Galactic Odyssey'	3029.08036
+b'Iraqi Prisoner Abuse'	3027.722
+Shortest Songs:	
+b'El Muchacho Alegre (Album Version)'	0.41751
+b'Dark Eyes  -  Schwarze Augen'	0.41751
+b'Se Sensation'	0.44363
+"b'Danzonete ""Rompiendo La Rutina'"	0.46975
+b'Discoshit'	0.46975
+b'Cuando Pienso En Ti'	0.49587
+b'La Pitologa'	0.49587
+b'Pida Me la'	0.522
+b'I Wanna Love You Forever'	0.54812
+b'ISDN'	0.57424
+Median Value(s):	
+
+Question 6
+	
