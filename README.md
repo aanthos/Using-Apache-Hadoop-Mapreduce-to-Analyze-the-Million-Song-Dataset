@@ -1,3 +1,22 @@
+File Descriptions:
+
+cs455.hadoop.Q1.MainJob.java
+* Driver class for starting setting up the two mappers and one reducer for questions 1 through 6. Only has one job and takes in both the metadata file and analysis file at once using MultipleInputs
+
+cs455.hadoop.Q1.AnaysisFileMapper.java
+* Mapper class that grabs information from the dataset found in /data/analysis
+
+cs455.hadoop.Q1.MetadataFileMapper.java
+* Mapper class that grabs information from the dataset found in /data/metadata
+
+cs455.hadoop.Q1.Q1Reducer.java
+This is where all the action is:
+	* Takes in split data from both mappers to fill in several lookup maps for future reference in reduce method
+	* Once reducer finishes going through the mappers, it goes through the cleanup process where it
+uses the lookup maps to write answers to the questions 1-6
+
+--------------------------------------------------------------------------------------------------------------
+
 ************Notes:
 
 *** To run, it needs two dataset directories passed in as arguments as opposed to the one shown in the hadoop setup guide. ie:
@@ -50,19 +69,4 @@ The other two mappers will each split information from the tracks and genres dat
 In the reducer, the songs can be filtered and stored in a list that contains songs from a specific genre. The title field in FMA can be compared to the title field in the million song metadata dataset, which will also allow the highest ratings to be filtered to songs in only a specific genre. From there, this will follow the same analysis as question 9, only instead of generating the overall top hottest song from every song, this will be done specifically for one genre using another dataset. 
 
 ----------------------------------------------------
-
-cs455.hadoop.Q1.MainJob.java
-* Driver class for starting setting up the two mappers and one reducer for questions 1 through 6. Only has one job and takes in both the metadata file and analysis file at once using MultipleInputs
-
-cs455.hadoop.Q1.AnaysisFileMapper.java
-* Mapper class that grabs information from the dataset found in /data/analysis
-
-cs455.hadoop.Q1.MetadataFileMapper.java
-* Mapper class that grabs information from the dataset found in /data/metadata
-
-cs455.hadoop.Q1.Q1Reducer.java
-This is where all the action is:
-	* Takes in split data from both mappers to fill in several lookup maps for future reference in reduce method
-	* Once reducer finishes going through the mappers, it goes through the cleanup process where it
-uses the lookup maps to write answers to the questions 1-6
 
