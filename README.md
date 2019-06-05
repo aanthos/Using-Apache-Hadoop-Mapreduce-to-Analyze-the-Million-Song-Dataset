@@ -10,10 +10,8 @@ cs455.hadoop.Q1.MetadataFileMapper.java
 * Mapper class that grabs information from the dataset found in /data/metadata
 
 cs455.hadoop.Q1.Q1Reducer.java
-This is where all the action is:
-	* Takes in split data from both mappers to fill in several lookup maps for future reference in reduce method
-	* Once reducer finishes going through the mappers, it goes through the cleanup process where it
-uses the lookup maps to write answers to the questions 1-6
+* Takes in split data from both mappers to fill in several lookup maps for future reference in reduce method
+* Once reducer finishes going through the mappers, it goes through the cleanup process where it uses the lookup maps to write answers to the questions 1-6
 
 --------------------------------------------------------------------------------------------------------------
 
