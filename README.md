@@ -15,9 +15,9 @@ cs455.hadoop.Q1.Q1Reducer.java
 
 --------------------------------------------------------------------------------------------------------------
 
-************Notes:
+**Notes:
 
-*** To run, it needs two dataset directories passed in as arguments as opposed to the one shown in the hadoop setup guide. ie:
+To run, it needs two dataset directories passed in as arguments as opposed to the one shown in the hadoop setup guide. ie:
  
 $HADOOP_HOME/bin/hadoop jar build/libs/Assign3.jar cs455.hadoop.Q1.MainJob /data/metadata /data/analysis /msd/output/output-1
 
